@@ -1,0 +1,414 @@
+{
+  "posts": [
+    {
+      "id": "postId1",
+      "author": "Plum",
+      "title": "Is the street food stall open today?",
+      "likes": 10,
+      "dislikes": 2,
+      "comments": [
+        {
+          "author": "User1",
+          "content": "Yes! Just went there, still delicious!",
+          "postId": "postId1"
+        },
+        {
+          "author": "User2",
+          "content": "Try the spicy skewers!",
+          "postId": "postId1"
+        },
+        {
+          "author": "Plum",
+          "content": "y",
+          "postId": "postId1"
+        },
+        {
+          "author": "Plum",
+          "content": "yy",
+          "postId": "postId1"
+        }
+      ]
+    },
+    {
+      "id": "postId2",
+      "author": "Mook",
+      "title": "If spinach became a dessert, what would it taste like?",
+      "likes": 5,
+      "dislikes": 10,
+      "comments": [
+        {
+          "author": "User1",
+          "content": "Probably like the subtle taste of regret.",
+          "postId": "postId2"
+        },
+        {
+          "author": "User2",
+          "content": "Bitter... very bitter.",
+          "postId": "postId2"
+        }
+      ]
+    },
+    {
+      "id": "postId3",
+      "author": "Sofia",
+      "title": "Best way to boost productivity?",
+      "likes": 15,
+      "dislikes": 1,
+      "comments": [
+        {
+          "author": "User3",
+          "content": "Pomodoro Technique works wonders for me!",
+          "postId": "postId3"
+        },
+        {
+          "author": "User4",
+          "content": "A good playlist with no lyrics helps a lot.",
+          "postId": "postId3"
+        }
+      ]
+    },
+    {
+      "id": "postId4",
+      "author": "Tom",
+      "title": "How to stop my cat from scratching the furniture?",
+      "likes": 20,
+      "dislikes": 3,
+      "comments": [
+        {
+          "author": "User5",
+          "content": "You need to provide a scratching post, it will help a lot.",
+          "postId": "postId4"
+        },
+        {
+          "author": "User6",
+          "content": "Try using a deterrent spray.",
+          "postId": "postId4"
+        }
+      ]
+    },
+    {
+      "id": "postId5",
+      "title": "Has anyone made Thai tea cake? Please share the recipe.",
+      "author": "Plum",
+      "comments": [
+        {
+          "author": "User7",
+          "content": "This recipe is great https://example.com",
+          "postId": "postId5"
+        },
+        {
+          "author": "User8",
+          "content": "Try adding sweetened condensed milk for extra flavor.",
+          "postId": "postId5"
+        }
+      ],
+      "likes": 18,
+      "dislikes": 0
+    },
+    {
+      "id": "postId6",
+      "author": "Pong",
+      "title": "What kind of wallpaper should I put in my kitchen?",
+      "likes": 8,
+      "dislikes": 2,
+      "comments": [
+        {
+          "author": "User9",
+          "content": "A waterproof and easy-to-clean pattern would be best."
+        },
+        {
+          "author": "User10",
+          "content": "I recommend a marble pattern, it looks elegant."
+        }
+      ]
+    },
+    {
+      "id": "postId7",
+      "author": "Anne",
+      "title": "What easy-to-care-for and fast-growing vegetables should I plant?",
+      "likes": 12,
+      "dislikes": 1,
+      "comments": [
+        {
+          "author": "User11",
+          "content": "I recommend planting cilantro, it grows very quickly."
+        },
+        {
+          "author": "User12",
+          "content": "Bean sprouts are also good, easy to care for."
+        }
+      ]
+    },
+    {
+      "id": "postId8",
+      "author": "Mook",
+      "title": "Has anyone been to Koh Tao? Recommend a place to stay.",
+      "likes": 25,
+      "dislikes": 4,
+      "comments": [
+        {
+          "author": "User13",
+          "content": "Stay at 'Koh Tao Resort', it’s great with a beautiful view."
+        },
+        {
+          "author": "User14",
+          "content": "Try checking Airbnb, there are many options."
+        }
+      ]
+    },
+    {
+      "id": "postId9",
+      "author": "Sofia",
+      "title": "Which smartphone takes great pictures? Recommendations?",
+      "likes": 30,
+      "dislikes": 5,
+      "comments": [
+        {
+          "author": "User15",
+          "content": "iPhone 15 Pro Max takes amazing photos."
+        },
+        {
+          "author": "User1",
+          "content": "The Samsung Galaxy S23 Ultra is also good."
+        }
+      ]
+    },
+    {
+      "id": "postId10",
+      "author": "Plum",
+      "title": "How to make my chili plants more productive?",
+      "likes": 14,
+      "dislikes": 0,
+      "comments": [
+        {
+          "author": "User7",
+          "content": "Try using organic fertilizer and watering them twice a day."
+        },
+        {
+          "author": "User9",
+          "content": "Choosing disease-resistant chili varieties can help."
+        }
+      ]
+    },
+    {
+      "id": "postId11",
+      "author": "John",
+      "title": "Which video editing software do you use?",
+      "likes": 22,
+      "dislikes": 1,
+      "comments": [
+        {
+          "author": "User1",
+          "content": "I use Premiere Pro, it's user-friendly."
+        },
+        {
+          "author": "User2",
+          "content": "Final Cut Pro is also good."
+        }
+      ]
+    },
+    {
+      "id": "postId12",
+      "author": "Yaya",
+      "title": "Has anyone made bread with an air fryer?",
+      "likes": 15,
+      "dislikes": 3,
+      "comments": [
+        {
+          "author": "User3",
+          "content": "You can, but it won’t be as soft as oven-baked."
+        },
+        {
+          "author": "User4",
+          "content": "Using less flour will make it fluffier."
+        }
+      ]
+    },
+    {
+      "id": "postId13",
+      "author": "Bear",
+      "title": "Should I buy a tablet or a laptop?",
+      "likes": 17,
+      "dislikes": 4,
+      "comments": [
+        {
+          "author": "User5",
+          "content": "If you do a lot of work, I recommend a laptop."
+        }
+      ]
+    },
+    {
+      "id": "postId14",
+      "author": "Plum",
+      "title": "What should I do for hair loss?",
+      "likes": 19,
+      "dislikes": 0,
+      "comments": [
+        {
+          "author": "User6",
+          "content": "Try using shampoo with herbal extracts."
+        },
+        {
+          "author": "User4",
+          "content": "Taking biotin supplements can help a lot."
+        }
+      ]
+    },
+    {
+      "id": "postId15",
+      "author": "Bear",
+      "title": "Suggest some easy breakfast recipes?",
+      "likes": 21,
+      "dislikes": 2,
+      "comments": [
+        {
+          "author": "User8",
+          "content": "Bread with butter and a soft-boiled egg."
+        }
+      ]
+    },
+    {
+      "id": "postId16",
+      "author": "Plum",
+      "title": "Is it a good idea to buy a second-hand camera?",
+      "likes": 11,
+      "dislikes": 3,
+      "comments": [
+        {
+          "author": "User5",
+          "content": "Yes, but you need to check its condition carefully."
+        },
+        {
+          "author": "User4",
+          "content": "If you want to save money, it’s okay, but buy from a trusted source."
+        }
+      ]
+    },
+    {
+      "id": "postId17",
+      "author": "Mook",
+      "title": "Has anyone grown plants in a condo? Recommendations?",
+      "likes": 23,
+      "dislikes": 1,
+      "comments": [
+        {
+          "author": "User4",
+          "content": "You can grow Monstera, it doesn’t need much sunlight."
+        },
+        {
+          "author": "User3",
+          "content": "Try growing a cactus, it's very easy to care for."
+        }
+      ]
+    },
+    {
+      "id": "postId18",
+      "author": "Sofia",
+      "title": "Has anyone used Windows 11? How is it?",
+      "likes": 18,
+      "dislikes": 5,
+      "comments": [
+        {
+          "author": "User10",
+          "content": "It's a bit faster, but you have to adjust to the new interface."
+        }
+      ]
+    },
+    {
+      "id": "postId20",
+      "author": "John",
+      "title": "Can I use green tea instead of water for cooking rice?",
+      "likes": 9,
+      "dislikes": 1,
+      "comments": [
+        {
+          "author": "User12",
+          "content": "Yes, it can give the rice a great flavor."
+        }
+      ]
+    },
+    {
+      "id": "postId21",
+      "author": "Yaya",
+      "title": "How to manage time better?",
+      "likes": 27,
+      "dislikes": 0,
+      "comments": [
+        {
+          "author": "User13",
+          "content": "Set a clear schedule and stick to it."
+        },
+        {
+          "author": "User14",
+          "content": "Use apps to help track your time."
+        }
+      ]
+    },
+    {
+      "id": "postId22",
+      "author": "Bear",
+      "title": "How to stay focused while studying?",
+      "likes": 20,
+      "dislikes": 2,
+      "comments": [
+        {
+          "author": "User15",
+          "content": "Try to eliminate distractions and take regular breaks."
+        }
+      ]
+    },
+    {
+      "id": "postId23",
+      "author": "Mook",
+      "title": "How to make my hair grow faster?",
+      "likes": 15,
+      "dislikes": 0,
+      "comments": [
+        {
+          "author": "User1",
+          "content": "Use hair masks regularly and eat a balanced diet."
+        }
+      ]
+    },
+    {
+      "id": "postId24",
+      "author": "Sofia",
+      "title": "Can anyone recommend a good online course platform?",
+      "likes": 28,
+      "dislikes": 1,
+      "comments": [
+        {
+          "author": "User4",
+          "content": "Coursera and Udemy are both great options."
+        }
+      ]
+    },
+    {
+      "id": "postId25",
+      "author": "Plum",
+      "title": "How to make sure my dog eats healthy?",
+      "likes": 19,
+      "dislikes": 3,
+      "comments": [
+        {
+          "author": "User8",
+          "content": "Choose high-quality dog food without fillers."
+        }
+      ]
+    },
+    {
+      "id": "abda",
+      "author": "CJ",
+      "title": "cryyy",
+      "likes": 0,
+      "dislikes": 0,
+      "comments": [
+        {
+          "author": "Plum",
+          "content": "++",
+          "postId": "abda"
+        }
+      ]
+    }
+  ]
+}
