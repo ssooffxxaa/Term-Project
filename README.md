@@ -27,7 +27,7 @@
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXflgxHoxE8M4ULHRyAlbi-PgmtZVRgHzR377B1AYk7li__2xzpJjk5QCe1-Dm0uAwx62yRWyY429XPCmiTdSPgefHVNVxNsMNiPBsJW2865WiZdB0EibziK3HtJLDmjrKN_Y16f_QAKtTFCWuFHrxxUdUuO?key=qf18D7T0Xyq5nrzLv457eg)**
 จากภาพที่ 2 เมื่อผู้ใช้กดปุ่มแก้ไขโพสต์ ระบบจะอนุญาตให้ผู้ใช้สามารถแก้ไขข้อมูลในโพสต์นั้นได้ตามต้องการ หลังจากที่ผู้ใช้ทำการแก้ไขเสร็จเรียบร้อยและกดปุ่ม "Post" ข้อมูลที่ถูกแก้ไขจะถูกส่งไปยัง JSON_Server เพื่ออัปเดตข้อมูลโพสต์ให้เป็นปัจจุบันและจะแสดงผลในหน้าหลักทันที
 
-	2. **Business Logic Layer (Application Layer)**
+	2. Business Logic Layer (Application Layer)
 Application นี้เป็นแอปสำหรับการโพสต์ข้อความหรือเหตุการณ์ต่างๆ แบบไม่ระบุตัวตน และสามารถแสดงความคิดเห็น รวมถึงการดูประวัติการโพสต์และการแจ้งเตือนการตอบกลับต่างๆ นั้น Business Logic Layer มีบทบาทสำคัญในการจัดการกับการประมวลผลและฟังก์ชันต่าง ๆ ของแอป โดยสามารถอธิบายรายละเอียดได้ดังนี้
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeijScXopDLCau8gFZ5uqw9PE9whD1lIqPZQ1hlfKPnXjH9s3dtx1Rg1s1rfBvZmwNSDCrCbmP9AP1SAbpqEkW0w6_ijDdapiCbaoexcCF9jsNduRvUEgPtMDx3VPuD-Umv5b-j_xSL4sOlqT7cKlvOuGJ-?key=qf18D7T0Xyq5nrzLv457eg)**
 	- **การควบคุมการทำงานของแอป (Application Control)**
